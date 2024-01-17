@@ -2,7 +2,7 @@ My First GitHub Pages Repository
 Welcome to my first GitHub Pages repository! This repository contains a simple HTML website that I've created to learn more about GitHub Pages and HTML.
 
 Website Preview
-To preview the website, simply click on the following link: https://karanjthakur.github.io/cv/
+To preview the website,
 
 Files Included
 The repository includes the following files:
@@ -18,4 +18,5 @@ Credits
 This website was created by Karan Thakur.
 
 Feedback
-If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly at karan@dattalks.in.
+If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly .
+
