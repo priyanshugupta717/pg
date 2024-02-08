@@ -15,7 +15,7 @@ How to Use
 To use this repository, simply fork or clone it to your own GitHub account. You can then edit the HTML files to create your own website.
 
 Credits
-This website was created by Karan Thakur.
+This website was created by priyanshu gupta
 
 Feedback
 If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly .
